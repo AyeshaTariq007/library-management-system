@@ -1,17 +1,14 @@
-# Library Management System (C++)
+# Library Management System
 
-A structural, console-based Library Management System developed in C++ using procedural control logic and local file handling streams.
+A structural console-based application developed in C++ as part of the Programming Fundamentals coursework.
 
-## 🚀 Features
-* **Book Inventory Tracking:** Add, search, and update physical book item quantities.
-* **Member Logs:** Record and maintain system member details efficiently.
-* **Persistent Storage:** Custom text file formatting streams to log library records consistently across system reboots.
+## Features
+- Track live library configurations and book inventory.
+- Manage student rentals, book issues, and return logs.
+- Utilizes sequential file-handling algorithms (.txt files) for persistent data storage.
+- Quick items lookup and records management using procedural arrays.
 
-## 🛠️ Technologies Used
-* **Language:** C++
-* **Concepts:** Arrays, Loops, Procedural Functions, File Streams (`fstream`)
-
-## 📦 How to Run
-1. Clone the repository.
-2. Open the source file in any C++ IDE (like Dev-C++, Code::Blocks, or VS Code).
-3. Compile and run the application.
+## Tech Stack
+- Language: C++
+- IDE: Visual Studio 2022
+- Storage: File Handling (.txt database)
